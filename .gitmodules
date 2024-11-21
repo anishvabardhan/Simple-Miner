@@ -1,0 +1,3 @@
+[submodule "PolyTree-Engine"]
+	path = PolyTree-Engine
+	url = https://github.com/anishvabardhan/PolyTree-Engine
